@@ -23,3 +23,4 @@ Router default gateway водим шлюз 172.16.19.126 → add → next → do
 3) Создаем зону обратного просмотра, идём во вкладку Reverse lookup zone → new zone. 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-8.png)
 Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.19 → next → finish
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-9.png)
