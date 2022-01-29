@@ -6,3 +6,4 @@
 Вкладка Features пропускаем → next → next → next → install → clouse → перезагружаем PC .
 # Настройка DHCP
 Идём во вкладку Tools → DHSP → выбираем контролер домена DC1 Moscow.wsr → открываем вкладку IPv4 и правой кнопкой добовляем New Scope 
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-2.png)
