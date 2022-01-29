@@ -6,6 +6,7 @@
 Вкладка Features пропускаем → next → next → next → install → clouse → перезагружаем PC .
 # Контроллер домена 
 В правом верхнем углу кликаем на флажок и выбираем параметр → promote this server to a domain controller.
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-4.png)
 
 
 
