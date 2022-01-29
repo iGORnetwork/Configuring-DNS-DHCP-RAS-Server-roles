@@ -5,14 +5,9 @@
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-1.png)
 Вкладка Features пропускаем → next → next → next → install → clouse → перезагружаем PC .
 # Контроллер домена 
-В правом верхнем углу кликаем на флажок и выбираем параметр → promote this server to a domain controller.
+1)В правом верхнем углу кликаем на флажок и выбираем параметр → promote this server to a domain controller.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-4.png)
-
-
-
-
-
-
+2) Создаем новый лес → add new forest → name Moscow.wsr → next → ставим пароль → next → next → next → install → clouse 
 # Настройка DHCP
 1) Идём во вкладку Tools → DHSP → выбираем контролер домена DC1 Moscow.wsr → открываем вкладку IPv4 и правой кнопкой добовляем New Scope 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-2.png)
