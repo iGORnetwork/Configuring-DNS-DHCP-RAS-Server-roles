@@ -16,3 +16,6 @@ Router default gateway водим шлюз 172.16.19.126 → add → next → do
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-3.png)
 # DNS 
 1) Идём во вкладку Tools → DNS → DC1 → forward lookup zones → Moscow.wsr → добовляем New Host 
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-5.png)
+2) Водим Name CLI1 → IP adress 172.16.19.70 → отмечаем create associated pointer ptr record → add host.
+
