@@ -20,3 +20,4 @@ Router default gateway водим шлюз 172.16.19.126 → add → next → do
 2) Водим Name CLI1 → IP adress 172.16.19.70 → отмечаем create associated pointer ptr record → add host.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-6.png)
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-7.png)
+3) Создаем зону обратного просмотра, идём во вкладку Reverse lookup zone → new zone. 
