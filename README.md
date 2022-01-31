@@ -60,3 +60,4 @@ Server Manager → tools → Active directory sites and services.
 # Настройка AD SRV2
 настройка проводиться аналогично первой
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-2.png)
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-3.png)
