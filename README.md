@@ -37,3 +37,9 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 3) Устанавливаем AD → CMD → Powershell → Install-WindowsFeature -Name AD-Domain-Services
 4) Водим SRV1 в домен → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем SRV1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/SRV1-1.png)
+5) Возвращаемся DC1 AD идём во вкладку manage - add server - вкладка DNS и добавляем PC SRV1 и нажимаем ОК.
+6) Нас странице быстрого доступа AD выбираем вкладка All server и выбираем наш резервный сервер SRV1.
+7) Далее правой кнопкой на SRV1 выбираем  Add Roles and Features и добавляем компоненты по аналогии с DC 1 → DHCP server, DNS server.
+8) Применяем наши настройки, в правом верхнем углу кликаем на флажок и применяем наши настройки. 
+
+10) 
