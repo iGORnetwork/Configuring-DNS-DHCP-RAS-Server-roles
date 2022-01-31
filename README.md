@@ -61,6 +61,6 @@ Server Manager → tools → Active directory sites and services.
 настройка проводиться аналогично SRV1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-2.png)
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-3.png)
-# Настройка CLI2 
+# Настройка AD CLI2 
 настройка проводиться аналогично CLI1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/CLI2-1.png)
