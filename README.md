@@ -31,7 +31,7 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-11.png)
 2) добавим нового пользовался → active directory users and computers → выбираем контейнер IT → new → User → Name Vasy → password → finih.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-%2012.png)
-# Настройка SRV1 AD
+# Настройка AD SRV1
 1) Меняем имя PC → CMD → sconfig → 2 → водим имя SRV1 презагружаемся.
 2) Настраеваем сеть → CMD → sconfig → 8 → 1 → 1 → S → водим IP адрес 172.16.19.66 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.66
 3) Устанавливаем AD → CMD → Powershell → Install-WindowsFeature -Name AD-Domain-Services
@@ -49,9 +49,9 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 Щелкните правой кнопкой мыши по элементу automatically generated → Replicate now 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-16.png)
 Повторим то же самое DC1
-# Настройка DCA AD
+# Настройка AD DCA
 1) Водим DCA в домен WIN+r → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем DCA
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DCA-1.png)
-# Настройка CLI1 
+# Настройка AD CLI1 
 1) Водим CLI1 в домен WIN+r → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем CLI1
-
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/CLI1-1.png)
