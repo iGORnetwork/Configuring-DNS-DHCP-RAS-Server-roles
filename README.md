@@ -53,3 +53,6 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 # Настройка AD CLI1 
 1) Водим CLI1 в домен WIN+r → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем CLI1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/CLI1-1.png)
+# Настройка AD DC2
+Дольнейшаа настройка проводиться аналогично первой , Name контролера домена spb.wsr и настройки сети для ip 172.16.20.96/27
+
