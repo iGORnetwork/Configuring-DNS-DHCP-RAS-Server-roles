@@ -27,3 +27,5 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 # Элементы доменной инфраструктуры
 Идём в AD во вкладку Manage → active directory users and computers → выбираем нашь домен Moscow.wsr → new → organization unit 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-10.png)
+Добовляем две новые группы IT и SALE , Name → cancel
+
