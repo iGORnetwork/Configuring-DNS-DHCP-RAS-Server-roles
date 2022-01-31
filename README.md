@@ -41,7 +41,8 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 6) В правом верхнем углу кликаем на флажок и Применяем наши настройки.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-14.png)
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-13.png)
-7) Сделаем SRV1 дополнительным контролером домена только для чтения Server Manager → tools → Active directory sites and services.
+7) Сделаем SRV1 дополнительным контролером домена 
+Server Manager → tools → Active directory sites and services.
 Разверните вкладку Sites → Default-First-Site-Name → Servers → SRV1 → NTDS Settings
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-15.png)
 Щелкните правой кнопкой мыши по элементу automatically generated → Replicate now 
@@ -56,4 +57,6 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 # Настройка AD DC2
 Дольнейшаа настройка проводиться аналогично первой , Name контролера домена spb.wsr и настройки сети для ip 172.16.20.96/27
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-1.png)
+# Настройка AD SRV2
+настройка проводиться аналогично первой
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-2.png)
