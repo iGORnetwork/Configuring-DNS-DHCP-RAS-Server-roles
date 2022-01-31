@@ -55,4 +55,4 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/CLI1-1.png)
 # Настройка AD DC2
 Дольнейшаа настройка проводиться аналогично первой , Name контролера домена spb.wsr и настройки сети для ip 172.16.20.96/27
-
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-1.png)
