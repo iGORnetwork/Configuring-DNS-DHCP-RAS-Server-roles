@@ -41,3 +41,4 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 6) Нас странице быстрого доступа AD выбираем вкладка All server и выбираем наш резервный сервер SRV1.
 7) Далее правой кнопкой на SRV1 выбираем  Add Roles and Features и добавляем компоненты по аналогии с DC 1 → DHCP , DNS.
 8) Применяем наши настройки, в правом верхнем углу кликаем на флажок и применяем наши настройки.
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-13.png)
