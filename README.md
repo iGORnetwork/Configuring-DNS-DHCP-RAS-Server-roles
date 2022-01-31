@@ -46,3 +46,5 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 9) Сделаем SRV1 дополнительным контролером домена только для чтения Server Manager → tools → Active directory sites and services.
 10) Разверните вкладку Sites → Default-First-Site-Name → Servers → SRV1 → NTDS Settings
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-15.png)
+Щелкните правой кнопкой мыши по элементу automatically generated → Replicate now 
+
