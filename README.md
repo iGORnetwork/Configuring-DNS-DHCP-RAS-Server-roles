@@ -31,3 +31,8 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-11.png)
 2) добавим нового пользовался → active directory users and computers → выбираем контейнер IT → new → User → Name Vasy → password → finih.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-%2012.png)
+# Настройка SRV1 AD
+1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя SRV1 презагружаемся.
+2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.19.66 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.66
+3) Устанавливаем AD - WIN+r - CMD - Powershell - Install-WindowsFeature -Name AD-Domain-Services
+4) Водим SRV1 в домен WIN+r - CMD - Powershell - водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем SRV1
