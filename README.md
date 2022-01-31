@@ -58,6 +58,9 @@ Server Manager → tools → Active directory sites and services.
 Дольнейшаа настройка проводиться аналогично первой , Name контролера домена spb.wsr и настройки сети для ip 172.16.20.96/27
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-1.png)
 # Настройка AD SRV2
-настройка проводиться аналогично первой
+настройка проводиться аналогично SRV1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-2.png)
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC2-3.png)
+# Настройка CLI2 
+настройка проводиться аналогично CLI1
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/CLI2-1.png)
