@@ -30,3 +30,4 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 Добовляем две новые группы IT и SALE , Name → cancel
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-11.png)
 2) добавим нового пользовался → active directory users and computers → выбираем контейнер IT → new → User → Name Vasy → password → finih.
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-%2012.png)
