@@ -52,3 +52,6 @@ Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.1
 # Настройка DCA AD
 1) Водим DCA в домен WIN+r → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем DCA
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DCA-1.png)
+# Настройка CLI1 
+1) Водим CLI1 в домен WIN+r → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем CLI1
+
