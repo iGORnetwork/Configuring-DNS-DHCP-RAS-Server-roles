@@ -25,7 +25,8 @@ Router default gateway водим шлюз 172.16.19.126 → add → next → do
 Primary zone → next → DNS domain Moscow.wsr → next → network ID 172.16.19 → next → finish
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-9.png)
 # Элементы доменной инфраструктуры
-Идём в AD во вкладку Manage → active directory users and computers → выбираем нашь домен Moscow.wsr → new → organization unit 
+1) Идём в AD во вкладку Manage → active directory users and computers → выбираем домен Moscow.wsr → new → organization unit 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-10.png)
 Добовляем две новые группы IT и SALE , Name → cancel
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-11.png)
+2) добавим нового пользовался → active directory users and computers → выбираем контейнер IT → new → User → Name Vasy → password → finih.
