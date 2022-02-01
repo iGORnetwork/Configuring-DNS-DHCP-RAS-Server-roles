@@ -69,4 +69,5 @@ Server Manager → tools → Active directory sites and services.
 # Настройка AD CLI2 
 настройка проводиться аналогично CLI1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/CLI2-1.png)
-# Настройка AD R1
+# Настройка AD R2
+настройка проводиться аналогично R1
