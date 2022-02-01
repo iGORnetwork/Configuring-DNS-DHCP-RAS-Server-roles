@@ -53,6 +53,8 @@ Server Manager → tools → Active directory sites and services.
 Отключаем firewall CMD → Powershell → netsh advfirewall set allprofiles state off
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/R1-1.png)
 
+
+
 # Настройка AD DCA
 1) Водим DCA в домен WIN+r → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем DCA
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DCA-1.png)
