@@ -49,8 +49,8 @@ Server Manager → tools → Active directory sites and services.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-16.png)
 Повторим то же самое DC1
 # Настройка AD R1
-Водим R1 в домен → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль.
-Отключаем firewall CMD → Powershell → netsh advfirewall set allprofiles state off
+1) Водим R1 в домен → CMD → Powershell → водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем .
+2) Отключаем firewall CMD → Powershell → netsh advfirewall set allprofiles state off
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/R1-1.png)
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/R1-2.png)
 # Настройка AD DCA
