@@ -72,3 +72,5 @@ Server Manager → tools → Active directory sites and services.
 # Настройка AD R2
 настройка проводиться аналогично R1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/R2-1.png)
+# Создать скрипт на Windows Server
+1) powershell ise → new script 
