@@ -74,3 +74,4 @@ Server Manager → tools → Active directory sites and services.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/R2-1.png)
 # Создать скрипт на Windows Server
 1) powershell ise → new script 
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-18.png)
