@@ -73,6 +73,7 @@ Server Manager → tools → Active directory sites and services.
 настройка проводиться аналогично R1
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/R2-1.png)
 # Создать скрипт на Windows Server
-1) powershell ise → new script 
+1) Скрипт на 30 новых пользователей. 
+а) powershell ise → new script пишим скрипт: 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-18.png)
 # Создаст RAID массив с помощью DISKPART
