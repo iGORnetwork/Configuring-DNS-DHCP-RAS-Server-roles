@@ -86,3 +86,4 @@ Server Manager → tools → Active directory sites and services.
 # Настроит общие папки для подразделений
 1) DC1 → file and storage services → share → netlogon → Add Roles and Features
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-19.png)
+2) New Share → next → SRV1 → type castom patch → disk D → new folder → name share → new folder deportament → IT end SALE 
