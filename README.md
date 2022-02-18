@@ -88,3 +88,4 @@ Server Manager → tools → Active directory sites and services.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-19.png)
 2) New Share → next → SRV1 → type castom patch → disk D → new folder → name share → new folder deportament → IT end SALE 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-20.png)
+3) next → next → next → disable inheritance удаляем все права , добовялкм группу IT и даем все прова Full
