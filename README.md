@@ -91,3 +91,4 @@ Server Manager → tools → Active directory sites and services.
 3) next → next → next → disable inheritance удаляем все права , добовялкм группу IT и даем все прова Full
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-21.png)
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-22.png)
+4) повторяем операция для группы SALE но запрещаем использовать ресурсы папке IT
