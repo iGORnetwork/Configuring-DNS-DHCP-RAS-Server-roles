@@ -95,3 +95,4 @@ Server Manager → tools → Active directory sites and services.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-23.png)
 5) повторяем операция для группы SALE но запрещаем использовать ресурсы папке SALE 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-24.png)
+# Отказа устойчивость устойчивость была настроена раньше и протокола ICMP.
