@@ -87,3 +87,4 @@ Server Manager → tools → Active directory sites and services.
 1) DC1 → file and storage services → share → netlogon → Add Roles and Features
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-19.png)
 2) New Share → next → SRV1 → type castom patch → disk D → new folder → name share → new folder deportament → IT end SALE 
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-20.png)
