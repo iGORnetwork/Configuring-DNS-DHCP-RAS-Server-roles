@@ -77,3 +77,5 @@ Server Manager → tools → Active directory sites and services.
 а) powershell ise → new script пишим скрипт: 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-18.png)
 # Создаст RAID массив с помощью DISKPART
+1) SRV1 → CMD → DISKPART → select disk 1 → attributes disk clear readonly → online disk → convert dynamic - далее повторяем операция для всех дисков 
+
