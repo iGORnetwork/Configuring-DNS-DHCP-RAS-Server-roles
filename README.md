@@ -82,3 +82,4 @@ Server Manager → tools → Active directory sites and services.
 2) create volume raid disk 1,2,3,4 → select volum disk 0 → assign letter=B → select volum disk 3 → assign letter=D
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/SRV1-3.png)
 3) select volum disk 0 → format fs=ntfs
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/SRV1-4.png)
