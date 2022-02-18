@@ -83,3 +83,5 @@ Server Manager → tools → Active directory sites and services.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/SRV1-3.png)
 3) select volum disk 0 → format fs=ntfs
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/SRV1-4.png)
+# Настроит общие папки для подразделений
+1) DC1 → file and storage services → share → netlogon → Add Roles and Features
