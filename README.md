@@ -79,3 +79,4 @@ Server Manager → tools → Active directory sites and services.
 # Создаст RAID массив с помощью DISKPART
 1) SRV1 → CMD → DISKPART → select disk 1 → attributes disk clear readonly → online disk → convert dynamic - далее повторяем операция для всех дисков 
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/SRV1-2.png)
+2) create volume raid disk 1,2,3,4 → select volum disk 0 → assign letter=B → select volum disk 3 → assign letter=D
