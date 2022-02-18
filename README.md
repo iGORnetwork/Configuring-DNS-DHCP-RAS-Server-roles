@@ -90,3 +90,4 @@ Server Manager → tools → Active directory sites and services.
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-20.png)
 3) next → next → next → disable inheritance удаляем все права , добовялкм группу IT и даем все прова Full
 ![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-21.png)
+![](https://github.com/iGORnetwork/Configuring-DNS-DHCP-RAS-Server-roles/blob/main/DC1-22.png)
